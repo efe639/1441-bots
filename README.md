@@ -3,6 +3,7 @@
 # Botları paylaşmamın sebebi altyapı kullanıyor diyen kişiler için resimleri birazdan yüklerim 
 20 30 star bişey atıverin
 
+![alt text](https://cdn.discordapp.com/attachments/995032465494265947/996088482491539537/unknown.png)
 ![alt text](https://cdn.discordapp.com/attachments/988144419079352401/996085342463610900/unknown.png)
 ![alt text](https://cdn.discordapp.com/attachments/988144419079352401/996085543790198794/unknown.png)
 ![alt text](https://cdn.discordapp.com/attachments/988144419079352401/996085805669945434/unknown.png)
