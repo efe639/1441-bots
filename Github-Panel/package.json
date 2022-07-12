@@ -1,0 +1,22 @@
+{
+  "name": "ktria-1441-panel",
+  "version": "1.0.0",
+  "description": "1441 sunucusunda kullandığım panel botu.",
+  "main": "app.js",
+  "scripts": {
+    "test": "ktria"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktriacxx/1441-bots.git"
+  },
+  "keywords": [
+    "ktria"
+  ],
+  "author": "ktria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktriacxx/1441-bots/issues"
+  },
+  "homepage": "https://github.com/ktriacxx/1441-bots#readme"
+}
